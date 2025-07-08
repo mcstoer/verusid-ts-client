@@ -49,7 +49,7 @@
     "axios": "1.7.4",
     "bignumber.js": "9.1.0",
     "bn.js": "5.2.1",
-    "verus-typescript-primitives": "git+https://github.com/mcstoer/verus-typescript-primitives.git#credentials-identity-update-request",
-    "verusd-rpc-ts-client": "git+https://github.com/mcstoer/verusd-rpc-ts-client.git#credentials-identity-update-request"
+    "verus-typescript-primitives": "git+https://github.com/mcstoer/verus-typescript-primitives.git#credential-class-iur",
+    "verusd-rpc-ts-client": "git+https://github.com/mcstoer/verusd-rpc-ts-client.git#credential-class-iur"
   }
 }
